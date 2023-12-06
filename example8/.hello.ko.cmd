@@ -1,0 +1,1 @@
+cmd_/home/ghksdlqhdl/workspace/c/example8/hello.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ghksdlqhdl/workspace/c/example8/hello.ko /home/ghksdlqhdl/workspace/c/example8/hello.o /home/ghksdlqhdl/workspace/c/example8/hello.mod.o;  true
