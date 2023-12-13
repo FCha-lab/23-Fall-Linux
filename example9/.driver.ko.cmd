@@ -1,0 +1,1 @@
+cmd_/home/ghksdlqhdl/workspace/c/example9/driver.ko := ld -r  -m elf_x86_64 -z noexecstack   --build-id=sha1  -T scripts/module.lds -o /home/ghksdlqhdl/workspace/c/example9/driver.ko /home/ghksdlqhdl/workspace/c/example9/driver.o /home/ghksdlqhdl/workspace/c/example9/driver.mod.o;  true
